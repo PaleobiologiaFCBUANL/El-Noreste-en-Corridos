@@ -1,4 +1,4 @@
-# El-Noreste-en-Corridos
+# El Noreste de México en Corridos
 Mapa Interactivo de Corridos Tradicionales del Noreste de México: "El Noreste en Corridos"
 
 Un mapa digital interactivo que georreferencia y visualiza corridos tradicionales mexicanos de diversas temáticas originarios del noreste de México, permitiendo explorando la relación entre la música tradicional y la geografía cultural de la región.
