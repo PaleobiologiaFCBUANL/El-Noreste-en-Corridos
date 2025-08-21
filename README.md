@@ -21,7 +21,7 @@ Este proyecto cuenta con licencia conforme a los términos de la licencia CC BY 
 
 - Contactos
 En caso de preguntas o sugerencias sobre este proyecto:
-paleobiología.fcbuanl@gmail.com
+paleobiologia.fcbuanl@gmail.com
 pedro.ibarraeo@uanl.edu.mx
 
 - Nota
